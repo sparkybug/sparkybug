@@ -23,9 +23,8 @@ query performance for high-volume academic record processing.
 Automated CSV ingestion pipelines handling thousands of academic assessment records
 for LMS migration.
 
-**caas-platform** — NestJS, pnpm monorepo (current, @credsol/ scope)
-Building a multi-tenant credit and lending platform backend (tenants, roles, CAM requests/versions, compliance reviews, audit
-trails) in a NestJS/pnpm monorepo with tRPC APIs and Drizzle ORM/PostgreSQL.
+**Scalable Multi-Tenant Backend Platform** — NestJS, pnpm monorepo ()
+Architecting and developing a multi-tenant enterprise backend within a NestJS/pnpm monorepo, leveraging tRPC, Drizzle ORM, and PostgreSQL. The platform supports granular authorization, configurable workflows, entity versioning, compliance operations, and immutable audit trails.
 
 ---
 
@@ -63,5 +62,5 @@ Shipped 19 merged third-party integration pieces over ~5 months. Highlights:
 
 ## 📫 Reach Me
 
-- LinkedIn: [ukaegbuosinachi](https://www.linkedin.com/in/ukaegbuosinachi)
+- LinkedIn: [ukaegbuosinachi](https://www.linkedin.com/in/ukaegbu-osinachi)
 - Email: ukaegbuosinachi15@gmail.com
